@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+.agents/
+figuras/
+.env
+.streamlit/secrets.toml
